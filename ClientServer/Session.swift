@@ -7,7 +7,8 @@
 
 import Foundation
 
-//MARK: pattern Singleton for store session settings
+//MARK: Session
+//pattern Singleton for store session settings
 class Session {
     private init() {}
 
